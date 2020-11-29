@@ -1,0 +1,10 @@
+com/google/sps/servlets/CommentsServlet.class
+com/google/sps/servlets/DeleteCommentsServlet.class
+com/google/sps/data/Marker.class
+com/google/sps/servlets/CommentsMoodServlet.class
+com/google/sps/data/Comment.class
+com/google/sps/servlets/LoginServlet.class
+com/google/sps/servlets/MarkerServlet.class
+com/google/sps/servlets/NicknameServlet.class
+com/google/sps/servlets/BlobstoreUploadUrlServlet.class
+com/google/sps/servlets/ServeImageServlet.class
